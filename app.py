@@ -20,6 +20,7 @@ Base.prepare(engine, reflect=True)
 #print(Base.classes.keys())
 # # Save reference to the tables
 nfl = Base.classes.nfl
+scores = Base.classes.scores
 
 #################################################
 # Flask Setup
@@ -34,10 +35,10 @@ app = Flask(__name__)
 # -------------------------------------------------------------------
 # Web Pages
 # -------------------------------------------------------------------
-# @app.route("/")
-# def home():
+@app.route("/")
+def home():
 
-#     return render_template("index.html")
+    return render_template("index.html")
 
 # -------------------------------------------------------------------
 # API endpoint one
@@ -110,6 +111,36 @@ def nfl_data():
 
     return jsonify(nfl_info)
 
+# -------------------------------------------------------------------
+# API endpoint two
+# -------------------------------------------------------------------
+@app.route("/api/v1.0/scores")
+def score_data():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    """Return a list of score_data"""
+    # Query all nfl_data
+    results = session.query(scores.Score, scores.PtsW, scores.PtsL, scores.PtTot,\
+        scores.PtDif, scores.Winner, scores.Loser, scores.Date).all()
+    
+    session.close()
+
+    # Create a dictionary from the row data and append to a list
+    score_info = []
+    for Score, PtsW, PtsL, PtTot, PtDif, Winner, Loser, Date in results:
+        score_dict = {}
+        score_dict["Score"] = Score
+        score_dict["PtsW"] = PtsW
+        score_dict["PtsL"] = PtsL
+        score_dict["PtTot"] = PtTot
+        score_dict["PtDif"] = PtDif
+        score_dict["Winner"] = Winner
+        score_dict["Loser"] = Loser
+        score_dict["Date"] = Date
+        score_info.append(score_dict)
+
+    return jsonify(score_info)
 
 if __name__ == '__main__':
     app.run(debug=True)

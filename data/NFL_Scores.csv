@@ -1,0 +1,683 @@
+Score,PtsW,PtsL,PtTot,PtDif,Winner,Losser,Date
+31-9,31,9,40,22,Tampa Bay Buccaneers,Kansas City Chiefs,2/7/2021
+31-26,31,26,57,5,Tampa Bay Buccaneers,Green Bay Packers,1/24/2021
+38-24,38,24,62,14,Kansas City Chiefs,Buffalo Bills,1/24/2021
+22-17,22,17,39,5,Kansas City Chiefs,Cleveland Browns,1/17/2021
+30-20,30,20,50,10,Tampa Bay Buccaneers,New Orleans Saints,1/17/2021
+17-3,17,3,20,14,Buffalo Bills  ,Baltimore Ravens,1/16/2021
+32-18,32,18,50,14,Green Bay Packers,Los Angeles Rams,1/16/2021
+20-13,20,13,33,7,Baltimore Ravens  ,Tennessee Titans,1/10/2021
+21-9,21,9,30,12,New Orleans Saints,Chicago Bears,1/10/2021
+48-37,48,37,85,11,Cleveland Browns  ,Pittsburgh Steelers,1/10/2021
+27-24,27,24,51,3,Buffalo Bills  ,Indianapolis Colts,1/9/2021
+31-23,31,23,54,8,Tampa Bay Buccaneers,Washington Football Team,1/9/2021
+18-7,18,7,25,11,Los Angeles Rams,Arizona Cardinals,1/3/2021
+20-14,20,14,34,6,Washington Football Team,Philadelphia Eagles,1/3/2021
+23-19,23,19,42,4,New York Giants,Dallas Cowboys,1/3/2021
+24-22,24,22,46,2,Cleveland Browns  ,Pittsburgh Steelers,1/3/2021
+26-23,26,23,49,3,Seattle Seahawks  ,San Francisco 49ers,1/3/2021
+28-14,28,14,42,14,Indianapolis Colts  ,Jacksonville Jaguars,1/3/2021
+32-31,32,31,63,1,Las Vegas Raiders,Denver Broncos,1/3/2021
+33-7,33,7,40,26,New Orleans Saints,Carolina Panthers,1/3/2021
+35-16,35,16,51,19,Green Bay Packers,Chicago Bears,1/3/2021
+37-35,37,35,72,2,Minnesota Vikings  ,Detroit Lions,1/3/2021
+38-21,38,21,59,17,Los Angeles Chargers,Kansas City Chiefs,1/3/2021
+38-3,38,3,41,35,Baltimore Ravens  ,Cincinnati Bengals,1/3/2021
+41-38,41,38,79,3,Tennessee Titans  ,Houston Texans,1/3/2021
+44-27,44,27,71,17,Tampa Bay Buccaneers,Atlanta Falcons,1/3/2021
+56-26,56,26,82,30,Buffalo Bills  ,Miami Dolphins,1/3/2021
+38-9,38,9,47,29,Buffalo Bills  ,New England Patriots,12/28/2020
+17-14,17,14,31,3,Kansas City Chiefs,Atlanta Falcons,12/27/2020
+19-16,19,16,35,3,Los Angeles Chargers,Denver Broncos,12/27/2020
+20-9,20,9,29,11,Seattle Seahawks  ,Los Angeles Rams,12/27/2020
+23-16,23,16,39,7,New York Jets,Cleveland Browns,12/27/2020
+27-13,27,13,40,14,Baltimore Ravens  ,New York Giants,12/27/2020
+28-24,28,24,52,4,Pittsburgh Steelers  ,Indianapolis Colts,12/27/2020
+37-17,37,17,54,20,Dallas Cowboys  ,Philadelphia Eagles,12/27/2020
+37-31,37,31,68,6,Cincinnati Bengals  ,Houston Texans,12/27/2020
+40-14,40,14,54,26,Green Bay Packers,Tennessee Titans,12/27/2020
+41-17,41,17,58,24,Chicago Bears  ,Jacksonville Jaguars,12/27/2020
+20-12,20,12,32,8,San Francisco 49ers,Arizona Cardinals,12/26/2020
+26-25,26,25,51,1,Miami Dolphins  ,Las Vegas Raiders,12/26/2020
+47-7,47,7,54,40,Tampa Bay Buccaneers,Detroit Lions,12/26/2020
+52-33,52,33,85,19,New Orleans Saints,Minnesota Vikings,12/25/2020
+27-17,27,17,44,10,Cincinnati Bengals  ,Pittsburgh Steelers,12/21/2020
+20-15,20,15,35,5,Seattle Seahawks  ,Washington Football Team,12/20/2020
+20-6,20,6,26,14,Cleveland Browns  ,New York Giants,12/20/2020
+22-12,22,12,34,10,Miami Dolphins  ,New England Patriots,12/20/2020
+23-20,23,20,43,3,New York Jets,Los Angeles Rams,12/20/2020
+27-20,27,20,47,7,Indianapolis Colts  ,Houston Texans,12/20/2020
+31-27,31,27,58,4,Tampa Bay Buccaneers,Atlanta Falcons,12/20/2020
+32-29,32,29,61,3,Kansas City Chiefs,New Orleans Saints,12/20/2020
+33-26,33,26,59,7,Arizona Cardinals  ,Philadelphia Eagles,12/20/2020
+33-27,33,27,60,6,Chicago Bears  ,Minnesota Vikings,12/20/2020
+41-33,41,33,74,8,Dallas Cowboys  ,San Francisco 49ers,12/20/2020
+46-25,46,25,71,21,Tennessee Titans  ,Detroit Lions,12/20/2020
+24-16,24,16,40,8,Green Bay Packers,Carolina Panthers,12/19/2020
+48-19,48,19,67,29,Buffalo Bills  ,Denver Broncos,12/19/2020
+30-27,30,27,57,3,Los Angeles Chargers,Las Vegas Raiders,12/17/2020
+47-42,47,42,89,5,Baltimore Ravens  ,Cleveland Browns,12/14/2020
+20-17,20,17,37,3,Los Angeles Chargers,Atlanta Falcons,12/13/2020
+23-15,23,15,38,8,Washington Football Team,San Francisco 49ers,12/13/2020
+24-21,24,21,45,3,Philadelphia Eagles  ,New Orleans Saints,12/13/2020
+26-14,26,14,40,12,Tampa Bay Buccaneers,Minnesota Vikings,12/13/2020
+26-15,26,15,41,11,Buffalo Bills  ,Pittsburgh Steelers,12/13/2020
+26-7,26,7,33,19,Arizona Cardinals  ,New York Giants,12/13/2020
+30-7,30,7,37,23,Dallas Cowboys  ,Cincinnati Bengals,12/13/2020
+31-10,31,10,41,21,Tennessee Titans  ,Jacksonville Jaguars,12/13/2020
+31-24,31,24,55,7,Green Bay Packers,Detroit Lions,12/13/2020
+32-27,32,27,59,5,Denver Broncos  ,Carolina Panthers,12/13/2020
+36-7,36,7,43,29,Chicago Bears  ,Houston Texans,12/13/2020
+40-3,40,3,43,37,Seattle Seahawks  ,New York Jets,12/13/2020
+24-3,24,3,27,21,Los Angeles Rams,New England Patriots,12/10/2020
+34-17,34,17,51,17,Baltimore Ravens  ,Dallas Cowboys,12/8/2020
+23-17,23,17,40,6,Washington Football Team,Pittsburgh Steelers,12/7/2020
+34-24,34,24,58,10,Buffalo Bills  ,San Francisco 49ers,12/7/2020
+17-12,17,12,29,5,New York Giants,Seattle Seahawks,12/6/2020
+19-7,19,7,26,12,Miami Dolphins  ,Cincinnati Bengals,12/6/2020
+21-16,21,16,37,5,New Orleans Saints,Atlanta Falcons,12/6/2020
+22-16,22,16,38,6,Kansas City Chiefs,Denver Broncos,12/6/2020
+26-20,26,20,46,6,Indianapolis Colts  ,Houston Texans,12/6/2020
+30-16,30,16,46,14,Green Bay Packers,Philadelphia Eagles,12/6/2020
+31-28,31,28,59,3,Las Vegas Raiders,New York Jets,12/6/2020
+34-30,34,30,64,4,Detroit Lions  ,Chicago Bears,12/6/2020
+38-28,38,28,66,10,Los Angeles Rams,Arizona Cardinals,12/6/2020
+41-35,41,35,76,6,Cleveland Browns  ,Tennessee Titans,12/6/2020
+45-0,45,0,45,45,New England Patriots,Los Angeles Chargers,12/6/2020
+19-14,19,14,33,5,Pittsburgh Steelers  ,Baltimore Ravens,12/2/2020
+19-17,19,17,36,2,New York Giants,Cincinnati Bengals,11/29/2020
+20-3,20,3,23,17,Miami Dolphins  ,New York Jets,11/29/2020
+27-25,27,25,52,2,Cleveland Browns  ,Jacksonville Jaguars,11/29/2020
+28-27,28,27,55,1,Minnesota Vikings  ,Carolina Panthers,11/29/2020
+31-3,31,3,34,28,New Orleans Saints,Denver Broncos,11/29/2020
+41-25,41,25,66,16,Green Bay Packers,Chicago Bears,11/29/2020
+43-6,43,6,49,37,Atlanta Falcons  ,Las Vegas Raiders,11/29/2020
+45-26,45,26,71,19,Tennessee Titans  ,Indianapolis Colts,11/29/2020
+41-16,41,16,57,25,Washington Football Team,Dallas Cowboys,11/26/2020
+20-0,20,0,20,20,Carolina Panthers  ,Detroit Lions,11/22/2020
+24-9,24,9,33,15,New Orleans Saints,Atlanta Falcons,11/22/2020
+27-3,27,3,30,24,Pittsburgh Steelers  ,Jacksonville Jaguars,11/22/2020
+30-24,30,24,54,6,Tennessee Titans  ,Baltimore Ravens,11/22/2020
+34-28,34,28,62,6,Los Angeles Chargers,New York Jets,11/22/2020
+34-31,34,31,65,3,Indianapolis Colts  ,Green Bay Packers,11/22/2020
+35-31,35,31,66,4,Kansas City Chiefs,Las Vegas Raiders,11/22/2020
+28-21,28,21,49,7,Seattle Seahawks  ,Arizona Cardinals,11/19/2020
+19-13,19,13,32,6,Minnesota Vikings  ,Chicago Bears,11/16/2020
+7-Oct,10,7,17,3,Cleveland Browns  ,Houston Texans,11/15/2020
+24-20,24,20,44,4,Green Bay Packers,Jacksonville Jaguars,11/15/2020
+29-21,29,21,50,8,Miami Dolphins  ,Los Angeles Chargers,11/15/2020
+32-30,32,30,62,2,Arizona Cardinals  ,Buffalo Bills,11/15/2020
+36-10,36,10,46,26,Pittsburgh Steelers  ,Cincinnati Bengals,11/15/2020
+37-12,37,12,49,25,Las Vegas Raiders,Denver Broncos,11/15/2020
+46-23,46,23,69,23,Tampa Bay Buccaneers,Carolina Panthers,11/15/2020
+24-10,24,10,34,14,Baltimore Ravens  ,Indianapolis Colts,11/8/2020
+24-17,24,17,41,7,Tennessee Titans  ,Chicago Bears,11/8/2020
+24-19,24,19,43,5,Pittsburgh Steelers  ,Dallas Cowboys,11/8/2020
+33-31,33,31,64,2,Kansas City Chiefs,Carolina Panthers,11/8/2020
+34-20,34,20,54,14,Minnesota Vikings  ,Detroit Lions,11/8/2020
+34-27,34,27,61,7,Atlanta Falcons  ,Denver Broncos,11/8/2020
+44-34,44,34,78,10,Buffalo Bills  ,Seattle Seahawks,11/8/2020
+25-23,25,23,48,2,Tampa Bay Buccaneers,New York Giants,11/2/2020
+16-6,16,6,22,10,Las Vegas Raiders,Cleveland Browns,11/1/2020
+23-9,23,9,32,14,Philadelphia Eagles  ,Dallas Cowboys,11/1/2020
+28-17,28,17,45,11,Miami Dolphins  ,Los Angeles Rams,11/1/2020
+28-22,28,22,50,6,Minnesota Vikings  ,Green Bay Packers,11/1/2020
+31-20,31,20,51,11,Cincinnati Bengals  ,Tennessee Titans,11/1/2020
+31-30,31,30,61,1,Denver Broncos  ,Los Angeles Chargers,11/1/2020
+35-9,35,9,44,26,Kansas City Chiefs,New York Jets,11/1/2020
+37-27,37,27,64,10,Seattle Seahawks  ,San Francisco 49ers,11/1/2020
+41-21,41,21,62,20,Indianapolis Colts  ,Detroit Lions,11/1/2020
+25-17,25,17,42,8,Atlanta Falcons  ,Carolina Panthers,10/29/2020
+18-10,18,10,28,8,Buffalo Bills  ,New York Jets,10/25/2020
+23-22,23,22,45,1,Detroit Lions  ,Atlanta Falcons,10/25/2020
+25-3,25,3,28,22,Washington Football Team,Dallas Cowboys,10/25/2020
+33-6,33,6,39,27,San Francisco 49ers,New England Patriots,10/25/2020
+35-20,35,20,55,15,Green Bay Packers,Houston Texans,10/25/2020
+37-34,37,34,71,3,Cleveland Browns  ,Cincinnati Bengals,10/25/2020
+39-29,39,29,68,10,Los Angeles Chargers,Jacksonville Jaguars,10/25/2020
+43-16,43,16,59,27,Kansas City Chiefs,Denver Broncos,10/25/2020
+45-20,45,20,65,25,Tampa Bay Buccaneers,Las Vegas Raiders,10/25/2020
+22-21,22,21,43,1,Philadelphia Eagles  ,New York Giants,10/22/2020
+26-17,26,17,43,9,Kansas City Chiefs,Buffalo Bills,10/19/2020
+38-10,38,10,48,28,Arizona Cardinals  ,Dallas Cowboys,10/19/2020
+18-12,18,12,30,6,Denver Broncos  ,New England Patriots,10/18/2020
+20-19,20,19,39,1,New York Giants,Washington Football Team,10/18/2020
+24-0,24,0,24,24,Miami Dolphins  ,New York Jets,10/18/2020
+30-28,30,28,58,2,Baltimore Ravens  ,Philadelphia Eagles,10/18/2020
+34-16,34,16,50,18,Detroit Lions  ,Jacksonville Jaguars,10/18/2020
+38-7,38,7,45,31,Pittsburgh Steelers  ,Cleveland Browns,10/18/2020
+40-23,40,23,63,17,Atlanta Falcons  ,Minnesota Vikings,10/18/2020
+42-36,42,36,78,6,Tennessee Titans  ,Houston Texans,10/18/2020
+42-16,42,16,58,26,Tennessee Titans  ,Buffalo Bills,10/13/2020
+27-26,27,26,53,1,Seattle Seahawks  ,Minnesota Vikings,10/11/2020
+30-10,30,10,40,20,Arizona Cardinals  ,New York Jets,10/11/2020
+30-14,30,14,44,16,Houston Texans  ,Jacksonville Jaguars,10/11/2020
+32-23,32,23,55,9,Cleveland Browns  ,Indianapolis Colts,10/11/2020
+38-29,38,29,67,9,Pittsburgh Steelers  ,Philadelphia Eagles,10/11/2020
+40-32,40,32,72,8,Las Vegas Raiders,Kansas City Chiefs,10/11/2020
+43-17,43,17,60,26,Miami Dolphins  ,San Francisco 49ers,10/11/2020
+26-10,26,10,36,16,Kansas City Chiefs,New England Patriots,10/5/2020
+17-9,17,9,26,8,Los Angeles Rams,New York Giants,10/4/2020
+19-11,19,11,30,8,Indianapolis Colts  ,Chicago Bears,10/4/2020
+25-20,25,20,45,5,Philadelphia Eagles  ,San Francisco 49ers,10/4/2020
+30-23,30,23,53,7,Buffalo Bills  ,Las Vegas Raiders,10/4/2020
+31-17,31,17,48,14,Baltimore Ravens  ,Washington Football Team,10/4/2020
+31-21,31,21,52,10,Carolina Panthers  ,Arizona Cardinals,10/4/2020
+33-25,33,25,58,8,Cincinnati Bengals  ,Jacksonville Jaguars,10/4/2020
+35-29,35,29,64,6,New Orleans Saints,Detroit Lions,10/4/2020
+38-31,38,31,69,7,Tampa Bay Buccaneers,Los Angeles Chargers,10/4/2020
+49-38,49,38,87,11,Cleveland Browns  ,Dallas Cowboys,10/4/2020
+37-28,37,28,65,9,Denver Broncos  ,New York Jets,10/1/2020
+23-23,23,23,46,0,Cincinnati Bengals  ,Philadelphia Eagles,9/27/2020
+28-10,28,10,38,18,Tampa Bay Buccaneers,Denver Broncos,9/27/2020
+30-26,30,26,56,4,Chicago Bears  ,Atlanta Falcons,9/27/2020
+35-32,35,32,67,3,Buffalo Bills  ,Los Angeles Rams,9/27/2020
+36-20,36,20,56,16,New England Patriots,Las Vegas Raiders,9/27/2020
+36-9,36,9,45,27,San Francisco 49ers,New York Giants,9/27/2020
+37-30,37,30,67,7,Green Bay Packers,New Orleans Saints,9/27/2020
+31-13,31,13,44,18,Miami Dolphins  ,Jacksonville Jaguars,9/24/2020
+17-13,17,13,30,4,Chicago Bears  ,New York Giants,9/20/2020
+26-21,26,21,47,5,Pittsburgh Steelers  ,Denver Broncos,9/20/2020
+28-11,28,11,39,17,Indianapolis Colts  ,Minnesota Vikings,9/20/2020
+30-15,30,15,45,15,Arizona Cardinals  ,Washington Football Team,9/20/2020
+33-16,33,16,49,17,Baltimore Ravens  ,Houston Texans,9/20/2020
+33-30,33,30,63,3,Tennessee Titans  ,Jacksonville Jaguars,9/20/2020
+35-30,35,30,65,5,Seattle Seahawks  ,New England Patriots,9/20/2020
+37-19,37,19,56,18,Los Angeles Rams,Philadelphia Eagles,9/20/2020
+40-39,40,39,79,1,Dallas Cowboys  ,Atlanta Falcons,9/20/2020
+42-21,42,21,63,21,Green Bay Packers,Detroit Lions,9/20/2020
+16-14,16,14,30,2,Tennessee Titans  ,Denver Broncos,9/14/2020
+26-16,26,16,42,10,Pittsburgh Steelers  ,New York Giants,9/14/2020
+16-13,16,13,29,3,Los Angeles Chargers,Cincinnati Bengals,9/13/2020
+21-11,21,11,32,10,New England Patriots,Miami Dolphins,9/13/2020
+27-23,27,23,50,4,Chicago Bears  ,Detroit Lions,9/13/2020
+34-23,34,23,57,11,New Orleans Saints,Tampa Bay Buccaneers,9/13/2020
+38-25,38,25,63,13,Seattle Seahawks  ,Atlanta Falcons,9/13/2020
+38-6,38,6,44,32,Baltimore Ravens  ,Cleveland Browns,9/13/2020
+43-34,43,34,77,9,Green Bay Packers,Minnesota Vikings,9/13/2020
+35-24,35,24,59,11,Kansas City Chiefs,Tennessee Titans,1/19/2020
+37-20,37,20,57,17,San Francisco 49ers,Green Bay Packers,1/19/2020
+28-23,28,23,51,5,Green Bay Packers,Seattle Seahawks,1/12/2020
+51-31,51,31,82,20,Kansas City Chiefs,Houston Texans,1/12/2020
+27-10,27,10,37,17,San Francisco 49ers,Minnesota Vikings,1/11/2020
+28-12,28,12,40,16,Tennessee Titans  ,Baltimore Ravens,1/11/2020
+22-19,22,19,41,3,Houston Texans  ,Buffalo Bills,1/4/2020
+13-6,13,6,19,7,New York Jets,Buffalo Bills,12/29/2019
+16-15,16,15,31,1,Denver Broncos  ,Oakland Raiders,12/29/2019
+21-19,21,19,40,2,Chicago Bears  ,Minnesota Vikings,12/29/2019
+33-23,33,23,56,10,Cincinnati Bengals  ,Cleveland Browns,12/29/2019
+35-14,35,14,49,21,Tennessee Titans  ,Houston Texans,12/29/2019
+38-20,38,20,58,18,Jacksonville Jaguars  ,Indianapolis Colts,12/29/2019
+42-10,42,10,52,32,New Orleans Saints,Carolina Panthers,12/29/2019
+47-16,47,16,63,31,Dallas Cowboys  ,Washington Redskins,12/29/2019
+23-10,23,10,33,13,Green Bay Packers,Minnesota Vikings,12/23/2019
+16-10,16,10,26,6,New York Jets,Pittsburgh Steelers,12/22/2019
+24-12,24,12,36,12,Atlanta Falcons  ,Jacksonville Jaguars,12/22/2019
+26-3,26,3,29,23,Kansas City Chiefs,Chicago Bears,12/22/2019
+31-15,31,15,46,16,Baltimore Ravens  ,Cleveland Browns,12/22/2019
+38-35,38,35,73,3,Miami Dolphins  ,Cincinnati Bengals,12/22/2019
+34-7,34,7,41,27,New Orleans Saints,Indianapolis Colts,12/16/2019
+17-10,17,10,27,7,Buffalo Bills  ,Pittsburgh Steelers,12/15/2019
+20-16,20,16,36,4,Jacksonville Jaguars  ,Oakland Raiders,12/15/2019
+21-13,21,13,34,8,Green Bay Packers,Chicago Bears,12/15/2019
+23-3,23,3,26,20,Kansas City Chiefs,Denver Broncos,12/15/2019
+29-22,29,22,51,7,Atlanta Falcons  ,San Francisco 49ers,12/15/2019
+34-13,34,13,47,21,New England Patriots,Cincinnati Bengals,12/15/2019
+38-17,38,17,55,21,Tampa Bay Buccaneers,Detroit Lions,12/15/2019
+39-10,39,10,49,29,Minnesota Vikings  ,Los Angeles Chargers,12/15/2019
+44-21,44,21,65,23,Dallas Cowboys  ,Los Angeles Rams,12/15/2019
+20-7,20,7,27,13,Minnesota Vikings  ,Detroit Lions,12/8/2019
+27-19,27,19,46,8,Cleveland Browns  ,Cincinnati Bengals,12/8/2019
+40-20,40,20,60,20,Atlanta Falcons  ,Carolina Panthers,12/8/2019
+45-10,45,10,55,35,Los Angeles Chargers,Jacksonville Jaguars,12/8/2019
+48-46,48,46,94,2,San Francisco 49ers,New Orleans Saints,12/8/2019
+22-6,22,6,28,16,Cincinnati Bengals  ,New York Jets,12/1/2019
+40-9,40,9,49,31,Kansas City Chiefs,Oakland Raiders,12/1/2019
+26-18,26,18,44,8,New Orleans Saints,Atlanta Falcons,11/28/2019
+45-6,45,6,51,39,Baltimore Ravens  ,Los Angeles Rams,11/25/2019
+13-9,13,9,22,4,New England Patriots,Dallas Cowboys,11/24/2019
+34-3,34,3,37,31,New York Jets,Oakland Raiders,11/24/2019
+35-22,35,22,57,13,Tampa Bay Buccaneers,Atlanta Falcons,11/24/2019
+37-8,37,8,45,29,San Francisco 49ers,Green Bay Packers,11/24/2019
+41-24,41,24,65,17,Cleveland Browns  ,Miami Dolphins,11/24/2019
+42-20,42,20,62,22,Tennessee Titans  ,Jacksonville Jaguars,11/24/2019
+17-7,17,7,24,10,Los Angeles Rams,Chicago Bears,11/17/2019
+29-3,29,3,32,26,Atlanta Falcons  ,Carolina Panthers,11/17/2019
+33-13,33,13,46,20,Indianapolis Colts  ,Jacksonville Jaguars,11/17/2019
+35-27,35,27,62,8,Dallas Cowboys  ,Detroit Lions,11/17/2019
+36-26,36,26,62,10,San Francisco 49ers,Arizona Cardinals,11/17/2019
+41-7,41,7,48,34,Baltimore Ravens  ,Houston Texans,11/17/2019
+21-7,21,7,28,14,Cleveland Browns  ,Pittsburgh Steelers,11/14/2019
+16-12,16,12,28,4,Miami Dolphins  ,Indianapolis Colts,11/10/2019
+26-9,26,9,35,17,Atlanta Falcons  ,New Orleans Saints,11/10/2019
+49-13,49,13,62,36,Baltimore Ravens  ,Cincinnati Bengals,11/10/2019
+26-24,26,24,50,2,Oakland Raiders  ,Los Angeles Chargers,11/7/2019
+37-18,37,18,55,19,Dallas Cowboys  ,New York Giants,11/4/2019
+22-14,22,14,36,8,Philadelphia Eagles  ,Chicago Bears,11/3/2019
+26-11,26,11,37,15,Los Angeles Chargers,Green Bay Packers,11/3/2019
+40-34,40,34,74,6,Seattle Seahawks  ,Tampa Bay Buccaneers,11/3/2019
+28-25,28,25,53,3,San Francisco 49ers,Arizona Cardinals,10/31/2019
+27-14,27,14,41,13,Pittsburgh Steelers  ,Miami Dolphins,10/28/2019
+15-13,15,13,28,2,Indianapolis Colts  ,Denver Broncos,10/27/2019
+17-16,17,16,33,1,Los Angeles Chargers,Chicago Bears,10/27/2019
+29-15,29,15,44,14,Jacksonville Jaguars  ,New York Jets,10/27/2019
+51-13,51,13,64,38,San Francisco 49ers,Carolina Panthers,10/27/2019
+19-9,19,9,28,10,Minnesota Vikings  ,Washington Redskins,10/24/2019
+33-0,33,0,33,33,New England Patriots,New York Jets,10/21/2019
+27-21,27,21,48,6,Arizona Cardinals  ,New York Giants,10/20/2019
+36-25,36,25,61,11,New Orleans Saints,Chicago Bears,10/20/2019
+37-10,37,10,47,27,Dallas Cowboys  ,Philadelphia Eagles,10/20/2019
+42-24,42,24,66,18,Green Bay Packers,Oakland Raiders,10/20/2019
+42-30,42,30,72,12,Minnesota Vikings  ,Detroit Lions,10/20/2019
+Sep-00,9,0,9,9,San Francisco 49ers,Washington Redskins,10/20/2019
+30-6,30,6,36,24,Kansas City Chiefs,Denver Broncos,10/17/2019
+16-0,16,0,16,16,Denver Broncos  ,Tennessee Titans,10/13/2019
+32-28,32,28,60,4,Seattle Seahawks  ,Cleveland Browns,10/13/2019
+34-33,34,33,67,1,Arizona Cardinals  ,Atlanta Falcons,10/13/2019
+37-26,37,26,63,11,Carolina Panthers  ,Tampa Bay Buccaneers,10/13/2019
+14-7,14,7,21,7,Buffalo Bills  ,Tennessee Titans,10/6/2019
+31-6,31,6,37,25,Philadelphia Eagles  ,New York Jets,10/6/2019
+53-32,53,32,85,21,Houston Texans  ,Atlanta Falcons,10/6/2019
+30-29,30,29,59,1,Seattle Seahawks  ,Los Angeles Rams,10/3/2019
+40-25,40,25,65,15,Cleveland Browns  ,Baltimore Ravens,9/29/2019
+55-40,55,40,95,15,Tampa Bay Buccaneers,Los Angeles Rams,9/29/2019
+10-Dec,12,10,22,2,New Orleans Saints,Dallas Cowboys,9/29/2019
+21-17,21,17,38,4,Buffalo Bills  ,Cincinnati Bengals,9/22/2019
+27-16,27,16,43,11,Green Bay Packers,Denver Broncos,9/22/2019
+33-28,33,28,61,5,Kansas City Chiefs,Baltimore Ravens,9/22/2019
+34-14,34,14,48,20,Minnesota Vikings  ,Oakland Raiders,9/22/2019
+13-10,13,10,23,3,Detroit Lions  ,Los Angeles Chargers,9/15/2019
+13-12,13,12,25,1,Houston Texans  ,Jacksonville Jaguars,9/15/2019
+27-9,27,9,36,18,Los Angeles Rams,New Orleans Saints,9/15/2019
+28-26,28,26,54,2,Seattle Seahawks  ,Pittsburgh Steelers,9/15/2019
+43-0,43,0,43,43,New England Patriots,Miami Dolphins,9/15/2019
+21-20,21,20,41,1,Seattle Seahawks  ,Cincinnati Bengals,9/8/2019
+27-27,27,27,54,0,Arizona Cardinals  ,Detroit Lions,9/8/2019
+33-3,33,3,36,30,New England Patriots,Pittsburgh Steelers,9/8/2019
+35-17,35,17,52,18,Dallas Cowboys  ,New York Giants,9/8/2019
+40-26,40,26,66,14,Kansas City Chiefs,Jacksonville Jaguars,9/8/2019
+43-13,43,13,56,30,Tennessee Titans  ,Cleveland Browns,9/8/2019
+59-10,59,10,69,49,Baltimore Ravens  ,Miami Dolphins,9/8/2019
+3-Oct,10,3,13,7,Green Bay Packers,Chicago Bears,9/5/2019
+13-3,13,3,16,10,New England Patriots,Los Angeles Rams,2/3/2019
+41-28,41,28,69,13,New England Patriots,Los Angeles Chargers,1/13/2019
+30-22,30,22,52,8,Los Angeles Rams,Dallas Cowboys,1/12/2019
+31-0,31,0,31,31,Detroit Lions  ,Green Bay Packers,12/30/2018
+33-14,33,14,47,19,Carolina Panthers  ,New Orleans Saints,12/30/2018
+33-17,33,17,50,16,Indianapolis Colts  ,Tennessee Titans,12/30/2018
+34-32,34,32,66,2,Atlanta Falcons  ,Tampa Bay Buccaneers,12/30/2018
+35-3,35,3,38,32,Kansas City Chiefs,Oakland Raiders,12/30/2018
+36-35,36,35,71,1,Dallas Cowboys  ,New York Giants,12/30/2018
+42-17,42,17,59,25,Buffalo Bills  ,Miami Dolphins,12/30/2018
+48-32,48,32,80,16,Los Angeles Rams,San Francisco 49ers,12/30/2018
+14-9,14,9,23,5,Chicago Bears  ,San Francisco 49ers,12/23/2018
+44-38,44,38,82,6,Green Bay Packers,New York Jets,12/23/2018
+22-10,22,10,32,12,Baltimore Ravens  ,Los Angeles Chargers,12/22/2018
+25-16,25,16,41,9,Tennessee Titans  ,Washington Redskins,12/22/2018
+9-Dec,12,9,21,3,New Orleans Saints,Carolina Panthers,12/17/2018
+14-13,14,13,27,1,Buffalo Bills  ,Detroit Lions,12/16/2018
+17-0,17,0,17,17,Tennessee Titans  ,New York Giants,12/16/2018
+23-0,23,0,23,23,Indianapolis Colts  ,Dallas Cowboys,12/16/2018
+29-28,29,28,57,1,Los Angeles Chargers,Kansas City Chiefs,12/13/2018
+15-6,15,6,21,9,Chicago Bears  ,Los Angeles Rams,12/9/2018
+29-23,29,23,52,6,Dallas Cowboys  ,Philadelphia Eagles,12/9/2018
+40-16,40,16,56,24,New York Giants,Washington Redskins,12/9/2018
+30-9,30,9,39,21,Tennessee Titans  ,Jacksonville Jaguars,12/6/2018
+28-13,28,13,41,15,Philadelphia Eagles  ,Washington Redskins,12/3/2018
+Jun-00,6,0,6,6,Jacksonville Jaguars  ,Indianapolis Colts,12/2/2018
+26-22,26,22,48,4,Tennessee Titans  ,New York Jets,12/2/2018
+29-13,29,13,42,16,Houston Texans  ,Cleveland Browns,12/2/2018
+40-33,40,33,73,7,Kansas City Chiefs,Oakland Raiders,12/2/2018
+25-22,25,22,47,3,Philadelphia Eagles  ,New York Giants,11/25/2018
+54-51,54,51,105,3,Los Angeles Rams,Kansas City Chiefs,11/19/2018
+23-21,23,21,44,2,Houston Texans  ,Washington Redskins,11/18/2018
+48-7,48,7,55,41,New Orleans Saints,Philadelphia Eagles,11/18/2018
+16-3,16,3,19,13,Washington Redskins  ,Tampa Bay Buccaneers,11/11/2018
+28-16,28,16,44,12,Cleveland Browns  ,Atlanta Falcons,11/11/2018
+29-26,29,26,55,3,Indianapolis Colts  ,Jacksonville Jaguars,11/11/2018
+31-12,31,12,43,19,Green Bay Packers,Miami Dolphins,11/11/2018
+34-10,34,10,44,24,Tennessee Titans  ,New England Patriots,11/11/2018
+34-22,34,22,56,12,Chicago Bears  ,Detroit Lions,11/11/2018
+36-31,36,31,67,5,Los Angeles Rams,Seattle Seahawks,11/11/2018
+41-10,41,10,51,31,Buffalo Bills  ,New York Jets,11/11/2018
+51-14,51,14,65,37,New Orleans Saints,Cincinnati Bengals,11/11/2018
+52-21,52,21,73,31,Pittsburgh Steelers  ,Carolina Panthers,11/8/2018
+37-21,37,21,58,16,Kansas City Chiefs,Cleveland Browns,11/4/2018
+38-14,38,14,52,24,Atlanta Falcons  ,Washington Redskins,11/4/2018
+41-9,41,9,50,32,Chicago Bears  ,Buffalo Bills,11/4/2018
+42-28,42,28,70,14,Carolina Panthers  ,Tampa Bay Buccaneers,11/4/2018
+45-35,45,35,80,10,New Orleans Saints,Los Angeles Rams,11/4/2018
+25-6,25,6,31,19,New England Patriots,Buffalo Bills,10/29/2018
+18-15,18,15,33,3,Arizona Cardinals  ,San Francisco 49ers,10/28/2018
+24-18,24,18,42,6,Philadelphia Eagles  ,Jacksonville Jaguars,10/28/2018
+29-27,29,27,56,2,Los Angeles Rams,Green Bay Packers,10/28/2018
+33-18,33,18,51,15,Pittsburgh Steelers  ,Cleveland Browns,10/28/2018
+36-21,36,21,57,15,Carolina Panthers  ,Baltimore Ravens,10/28/2018
+42-23,42,23,65,19,Houston Texans  ,Miami Dolphins,10/25/2018
+24-23,24,23,47,1,New Orleans Saints,Baltimore Ravens,10/21/2018
+32-21,32,21,53,11,Detroit Lions  ,Miami Dolphins,10/21/2018
+37-5,37,5,42,32,Indianapolis Colts  ,Buffalo Bills,10/21/2018
+21-0,21,0,21,21,Baltimore Ravens  ,Tennessee Titans,10/14/2018
+34-29,34,29,63,5,Atlanta Falcons  ,Tampa Bay Buccaneers,10/14/2018
+40-7,40,7,47,33,Dallas Cowboys  ,Jacksonville Jaguars,10/14/2018
+42-34,42,34,76,8,New York Jets,Indianapolis Colts,10/14/2018
+43-40,43,40,83,3,New England Patriots,Kansas City Chiefs,10/14/2018
+43-19,43,19,62,24,New Orleans Saints,Washington Redskins,10/8/2018
+28-18,28,18,46,10,Arizona Cardinals  ,San Francisco 49ers,10/7/2018
+22-0,22,0,22,22,Green Bay Packers,Buffalo Bills,9/30/2018
+37-36,37,36,73,1,Cincinnati Bengals  ,Atlanta Falcons,9/30/2018
+45-42,45,42,87,3,Oakland Raiders  ,Cleveland Browns,9/30/2018
+48-10,48,10,58,38,Chicago Bears  ,Tampa Bay Buccaneers,9/30/2018
+24-13,24,13,37,11,Seattle Seahawks  ,Dallas Cowboys,9/23/2018
+27-22,27,22,49,5,New York Giants,Houston Texans,9/23/2018
+27-6,27,6,33,21,Buffalo Bills  ,Minnesota Vikings,9/23/2018
+28-20,28,20,48,8,Miami Dolphins  ,Oakland Raiders,9/23/2018
+35-23,35,23,58,12,Los Angeles Rams,Los Angeles Chargers,9/23/2018
+38-27,38,27,65,11,Kansas City Chiefs,San Francisco 49ers,9/23/2018
+43-37,43,37,80,6,New Orleans Saints,Atlanta Falcons,9/23/2018
+6-Sep,9,6,15,3,Tennessee Titans  ,Jacksonville Jaguars,9/23/2018
+21-18,21,18,39,3,New Orleans Saints,Cleveland Browns,9/16/2018
+29-29,29,29,58,0,Green Bay Packers,Minnesota Vikings,9/16/2018
+34-0,34,0,34,34,Los Angeles Rams,Arizona Cardinals,9/16/2018
+42-37,42,37,79,5,Kansas City Chiefs,Pittsburgh Steelers,9/16/2018
+48-17,48,17,65,31,New York Jets,Detroit Lions,9/10/2018
+16-8,16,8,24,8,Carolina Panthers  ,Dallas Cowboys,9/9/2018
+21-21,21,21,42,0,Cleveland Browns  ,Pittsburgh Steelers,9/9/2018
+24-6,24,6,30,18,Washington Redskins  ,Arizona Cardinals,9/9/2018
+47-3,47,3,50,44,Baltimore Ravens  ,Buffalo Bills,9/9/2018
+48-40,48,40,88,8,Tampa Bay Buccaneers,New Orleans Saints,9/9/2018
+29-24,29,24,53,5,Minnesota Vikings  ,New Orleans Saints,1/14/2018
+15-10,15,10,25,5,Philadelphia Eagles  ,Atlanta Falcons,1/13/2018
+26-13,26,13,39,13,Atlanta Falcons  ,Los Angeles Rams,1/6/2018
+22-13,22,13,35,9,Indianapolis Colts  ,Houston Texans,12/31/2017
+26-6,26,6,32,20,New England Patriots,New York Jets,12/31/2017
+35-11,35,11,46,24,Detroit Lions  ,Green Bay Packers,12/31/2017
+19-10,19,10,29,9,Philadelphia Eagles  ,Oakland Raiders,12/25/2017
+34-6,34,6,40,28,Pittsburgh Steelers  ,Houston Texans,12/25/2017
+21-12,21,12,33,9,Seattle Seahawks  ,Dallas Cowboys,12/24/2017
+23-13,23,13,36,10,New Orleans Saints,Atlanta Falcons,12/24/2017
+27-11,27,11,38,16,Washington Redskins  ,Denver Broncos,12/24/2017
+37-16,37,16,53,21,New England Patriots,Buffalo Bills,12/24/2017
+44-33,44,33,77,11,San Francisco 49ers,Jacksonville Jaguars,12/24/2017
+31-19,31,19,50,12,New Orleans Saints,New York Jets,12/17/2017
+42-7,42,7,49,35,Los Angeles Rams,Seattle Seahawks,12/17/2017
+45-7,45,7,52,38,Jacksonville Jaguars  ,Houston Texans,12/17/2017
+20-10,20,10,30,10,Detroit Lions  ,Chicago Bears,12/16/2017
+30-13,30,13,43,17,Kansas City Chiefs,Los Angeles Chargers,12/16/2017
+25-13,25,13,38,12,Denver Broncos  ,Indianapolis Colts,12/14/2017
+13-7,13,7,20,6,Buffalo Bills  ,Indianapolis Colts,12/10/2017
+39-38,39,38,77,1,Pittsburgh Steelers  ,Baltimore Ravens,12/10/2017
+43-35,43,35,78,8,Philadelphia Eagles  ,Los Angeles Rams,12/10/2017
+7-Dec,12,7,19,5,Arizona Cardinals  ,Tennessee Titans,12/10/2017
+15-14,15,14,29,1,San Francisco 49ers,Chicago Bears,12/3/2017
+32-16,32,16,48,16,Los Angeles Rams,Arizona Cardinals,12/3/2017
+44-20,44,20,64,24,Baltimore Ravens  ,Detroit Lions,12/3/2017
+21-14,21,14,35,7,Oakland Raiders  ,Denver Broncos,11/26/2017
+28-6,28,6,34,22,Los Angeles Chargers,Dallas Cowboys,11/23/2017
+24-7,24,7,31,17,Minnesota Vikings  ,Los Angeles Rams,11/19/2017
+33-8,33,8,41,25,New England Patriots,Oakland Raiders,11/19/2017
+37-9,37,9,46,28,Philadelphia Eagles  ,Dallas Cowboys,11/19/2017
+54-24,54,24,78,30,Los Angeles Chargers,Buffalo Bills,11/19/2017
+40-17,40,17,57,23,Pittsburgh Steelers  ,Tennessee Titans,11/16/2017
+45-21,45,21,66,24,Carolina Panthers  ,Miami Dolphins,11/13/2017
+27-7,27,7,34,20,Atlanta Falcons  ,Dallas Cowboys,11/12/2017
+38-30,38,30,68,8,Minnesota Vikings  ,Washington Redskins,11/12/2017
+47-10,47,10,57,37,New Orleans Saints,Buffalo Bills,11/12/2017
+30-17,30,17,47,13,Detroit Lions  ,Green Bay Packers,11/6/2017
+23-7,23,7,30,16,Jacksonville Jaguars  ,Cincinnati Bengals,11/5/2017
+51-17,51,17,68,34,Los Angeles Rams,New York Giants,11/5/2017
+51-23,51,23,74,28,Philadelphia Eagles  ,Denver Broncos,11/5/2017
+34-21,34,21,55,13,New York Jets,Buffalo Bills,11/2/2017
+29-19,29,19,48,10,Kansas City Chiefs,Denver Broncos,10/30/2017
+33-10,33,10,43,23,Philadelphia Eagles  ,San Francisco 49ers,10/29/2017
+33-19,33,19,52,14,Dallas Cowboys  ,Washington Redskins,10/29/2017
+40-0,40,0,40,40,Baltimore Ravens  ,Miami Dolphins,10/26/2017
+27-0,27,0,27,27,Jacksonville Jaguars  ,Indianapolis Colts,10/22/2017
+29-14,29,14,43,15,Pittsburgh Steelers  ,Cincinnati Bengals,10/22/2017
+40-10,40,10,50,30,Dallas Cowboys  ,San Francisco 49ers,10/22/2017
+36-22,36,22,58,14,Tennessee Titans  ,Indianapolis Colts,10/16/2017
+38-33,38,33,71,5,Arizona Cardinals  ,Tampa Bay Buccaneers,10/15/2017
+52-38,52,38,90,14,New Orleans Saints,Detroit Lions,10/15/2017
+29-20,29,20,49,9,Kansas City Chiefs,Washington Redskins,10/2/2017
+31-7,31,7,38,24,Cincinnati Bengals  ,Cleveland Browns,10/1/2017
+46-18,46,18,64,28,Seattle Seahawks  ,Indianapolis Colts,10/1/2017
+57-14,57,14,71,43,Houston Texans  ,Tennessee Titans,10/1/2017
+36-33,36,33,69,3,New England Patriots,Houston Texans,9/24/2017
+44-7,44,7,51,37,Jacksonville Jaguars  ,Baltimore Ravens,9/24/2017
+41-39,41,39,80,2,Los Angeles Rams,San Francisco 49ers,9/21/2017
+29-7,29,7,36,22,Tampa Bay Buccaneers,Chicago Bears,9/17/2017
+3-Sep,9,3,12,6,Carolina Panthers  ,Buffalo Bills,9/17/2017
+19-3,19,3,22,16,Dallas Cowboys  ,New York Giants,9/10/2017
+46-9,46,9,55,37,Los Angeles Rams,Indianapolis Colts,9/10/2017
+42-27,42,27,69,15,Kansas City Chiefs,New England Patriots,9/7/2017
+36-17,36,17,53,19,New England Patriots,Pittsburgh Steelers,1/22/2017
+18-16,18,16,34,2,Pittsburgh Steelers  ,Kansas City Chiefs,1/15/2017
+30-12,30,12,42,18,Pittsburgh Steelers  ,Miami Dolphins,1/8/2017
+38-13,38,13,51,25,Green Bay Packers,New York Giants,1/8/2017
+38-32,38,32,70,6,Atlanta Falcons  ,New Orleans Saints,1/1/2017
+44-6,44,6,50,38,Arizona Cardinals  ,Los Angeles Rams,1/1/2017
+41-3,41,3,44,38,New England Patriots,New York Jets,12/24/2016
+17-6,17,6,23,11,New York Giants,Detroit Lions,12/18/2016
+41-13,41,13,54,28,Atlanta Falcons  ,San Francisco 49ers,12/18/2016
+48-41,48,41,89,7,New Orleans Saints,Arizona Cardinals,12/18/2016
+16-11,16,11,27,5,Tampa Bay Buccaneers,New Orleans Saints,12/11/2016
+42-14,42,14,56,28,Atlanta Falcons  ,Los Angeles Rams,12/11/2016
+24-14,24,14,38,10,Pittsburgh Steelers  ,New York Giants,12/4/2016
+32-14,32,14,46,18,Cincinnati Bengals  ,Philadelphia Eagles,12/4/2016
+17-15,17,15,32,2,Dallas Cowboys  ,Minnesota Vikings,12/1/2016
+14-5,14,5,19,9,Tampa Bay Buccaneers,Seattle Seahawks,11/27/2016
+38-19,38,19,57,19,Atlanta Falcons  ,Arizona Cardinals,11/27/2016
+49-21,49,21,70,28,New Orleans Saints,Los Angeles Rams,11/27/2016
+28-7,28,7,35,21,Pittsburgh Steelers  ,Indianapolis Colts,11/24/2016
+14-10,14,10,24,4,Miami Dolphins  ,Los Angeles Rams,11/20/2016
+26-19,26,19,45,7,Detroit Lions  ,Jacksonville Jaguars,11/20/2016
+24-15,24,15,39,9,Philadelphia Eagles  ,Atlanta Falcons,11/13/2016
+47-25,47,25,72,22,Tennessee Titans  ,Green Bay Packers,11/13/2016
+31-25,31,25,56,6,Seattle Seahawks  ,Buffalo Bills,11/7/2016
+35-10,35,10,45,25,Dallas Cowboys  ,Cleveland Browns,11/6/2016
+41-23,41,23,64,18,New Orleans Saints,San Francisco 49ers,11/6/2016
+43-28,43,28,71,15,Atlanta Falcons  ,Tampa Bay Buccaneers,11/3/2016
+33-32,33,32,65,1,Atlanta Falcons  ,Green Bay Packers,10/30/2016
+21-10,21,10,31,11,Philadelphia Eagles  ,Minnesota Vikings,10/23/2016
+34-26,34,26,60,8,Indianapolis Colts  ,Tennessee Titans,10/23/2016
+6-Jun,6,6,12,0,Arizona Cardinals  ,Seattle Seahawks,10/23/2016
+28-3,28,3,31,25,Arizona Cardinals  ,New York Jets,10/17/2016
+45-16,45,16,61,29,Buffalo Bills  ,San Francisco 49ers,10/16/2016
+30-19,30,19,49,11,Buffalo Bills  ,Los Angeles Rams,10/9/2016
+33-21,33,21,54,12,Arizona Cardinals  ,San Francisco 49ers,10/6/2016
+35-34,35,34,69,1,New Orleans Saints,San Diego Chargers,10/2/2016
+43-14,43,14,57,29,Pittsburgh Steelers  ,Kansas City Chiefs,10/2/2016
+48-33,48,33,81,15,Atlanta Falcons  ,Carolina Panthers,10/2/2016
+22-7,22,7,29,15,Cincinnati Bengals  ,Miami Dolphins,9/29/2016
+45-32,45,32,77,13,Atlanta Falcons  ,New Orleans Saints,9/26/2016
+29-17,29,17,46,12,Denver Broncos  ,Cincinnati Bengals,9/25/2016
+37-32,37,32,69,5,Los Angeles Rams,Tampa Bay Buccaneers,9/25/2016
+19-12,19,12,31,7,Houston Texans  ,Kansas City Chiefs,9/18/2016
+35-28,35,28,63,7,Atlanta Falcons  ,Oakland Raiders,9/18/2016
+46-27,46,27,73,19,Carolina Panthers  ,San Francisco 49ers,9/18/2016
+28-0,28,0,28,28,San Francisco 49ers,Los Angeles Rams,9/12/2016
+38-16,38,16,54,22,Pittsburgh Steelers  ,Washington Redskins,9/12/2016
+23-14,23,14,37,9,Houston Texans  ,Chicago Bears,9/11/2016
+29-10,29,10,39,19,Philadelphia Eagles  ,Cleveland Browns,9/11/2016
+39-35,39,35,74,4,Detroit Lions  ,Indianapolis Colts,9/11/2016
+20-18,20,18,38,2,Denver Broncos  ,New England Patriots,1/24/2016
+49-15,49,15,64,34,Carolina Panthers  ,Arizona Cardinals,1/24/2016
+35-18,35,18,53,17,Green Bay Packers,Washington Redskins,1/10/2016
+9-Oct,10,9,19,1,Seattle Seahawks  ,Minnesota Vikings,1/10/2016
+30-0,30,0,30,30,Kansas City Chiefs,Houston Texans,1/9/2016
+36-6,36,6,42,30,Seattle Seahawks  ,Arizona Cardinals,1/3/2016
+32-17,32,17,49,15,Detroit Lions  ,San Francisco 49ers,12/27/2015
+38-8,38,8,46,30,Arizona Cardinals  ,Green Bay Packers,12/27/2015
+49-17,49,17,66,32,Minnesota Vikings  ,New York Giants,12/27/2015
+35-25,35,25,60,10,Washington Redskins  ,Buffalo Bills,12/20/2015
+15-12,15,12,27,3,Oakland Raiders  ,Denver Broncos,12/13/2015
+30-8,30,8,38,22,New York Jets,Tennessee Titans,12/13/2015
+33-20,33,20,53,13,Pittsburgh Steelers  ,Cincinnati Bengals,12/13/2015
+35-6,35,6,41,29,Seattle Seahawks  ,Baltimore Ravens,12/13/2015
+38-0,38,0,38,38,Carolina Panthers  ,Atlanta Falcons,12/13/2015
+51-16,51,16,67,35,Jacksonville Jaguars  ,Indianapolis Colts,12/13/2015
+30-21,30,21,51,9,Buffalo Bills  ,Houston Texans,12/6/2015
+37-3,37,3,40,34,Cincinnati Bengals  ,Cleveland Browns,12/6/2015
+42-39,42,39,81,3,Tennessee Titans  ,Jacksonville Jaguars,12/6/2015
+25-12,25,12,37,13,Indianapolis Colts  ,Tampa Bay Buccaneers,11/29/2015
+39-30,39,30,69,9,Seattle Seahawks  ,Pittsburgh Steelers,11/29/2015
+45-14,45,14,59,31,Detroit Lions  ,Philadelphia Eagles,11/26/2015
+18-13,18,13,31,5,Detroit Lions  ,Oakland Raiders,11/22/2015
+44-16,44,16,60,28,Carolina Panthers  ,Washington Redskins,11/22/2015
+45-17,45,17,62,28,Tampa Bay Buccaneers,Philadelphia Eagles,11/22/2015
+6-Oct,10,6,16,4,Houston Texans  ,Cincinnati Bengals,11/16/2015
+22-20,22,20,42,2,Jacksonville Jaguars  ,Baltimore Ravens,11/15/2015
+37-13,37,13,50,24,Chicago Bears  ,St. Louis Rams,11/15/2015
+39-32,39,32,71,7,Arizona Cardinals  ,Seattle Seahawks,11/15/2015
+47-14,47,14,61,33,Washington Redskins  ,New Orleans Saints,11/15/2015
+37-29,37,29,66,8,Carolina Panthers  ,Green Bay Packers,11/8/2015
+52-49,52,49,101,3,New Orleans Saints,New York Giants,11/1/2015
+28-19,28,19,47,9,Minnesota Vikings  ,Detroit Lions,10/25/2015
+44-26,44,26,70,18,Miami Dolphins  ,Houston Texans,10/25/2015
+18-17,18,17,35,1,Chicago Bears  ,Kansas City Chiefs,10/11/2015
+25-19,25,19,44,6,Atlanta Falcons  ,Washington Redskins,10/11/2015
+39-17,39,17,56,22,Philadelphia Eagles  ,New Orleans Saints,10/11/2015
+37-23,37,23,60,14,Carolina Panthers  ,Tampa Bay Buccaneers,10/4/2015
+48-21,48,21,69,27,Atlanta Falcons  ,Houston Texans,10/4/2015
+26-0,26,0,26,26,Seattle Seahawks  ,Chicago Bears,9/27/2015
+31-14,31,14,45,17,Minnesota Vikings  ,San Diego Chargers,9/27/2015
+35-33,35,33,68,2,Indianapolis Colts  ,Tennessee Titans,9/27/2015
+39-28,39,28,67,11,Atlanta Falcons  ,Dallas Cowboys,9/27/2015
+41-14,41,14,55,27,Buffalo Bills  ,Miami Dolphins,9/27/2015
+6-Dec,12,6,18,6,Pittsburgh Steelers  ,St. Louis Rams,9/27/2015
+37-33,37,33,70,4,Oakland Raiders  ,Baltimore Ravens,9/20/2015
+43-18,43,18,61,25,Pittsburgh Steelers  ,San Francisco 49ers,9/20/2015
+48-23,48,23,71,25,Arizona Cardinals  ,Chicago Bears,9/20/2015
+37-24,37,24,61,13,New York Jets,Miami Dolphins,12/28/2014
+44-17,44,17,61,27,Dallas Cowboys  ,Washington Redskins,12/28/2014
+25-24,25,24,49,1,Indianapolis Colts  ,Cleveland Browns,12/7/2014
+29-16,29,16,45,13,Denver Broncos  ,Kansas City Chiefs,11/30/2014
+29-18,29,18,47,11,Atlanta Falcons  ,Arizona Cardinals,11/30/2014
+49-27,49,27,76,22,Indianapolis Colts  ,Washington Redskins,11/30/2014
+52-0,52,0,52,52,St. Louis Rams,Oakland Raiders,11/30/2014
+34-9,34,9,43,25,New England Patriots,Detroit Lions,11/23/2014
+39-36,39,36,75,3,Denver Broncos  ,Miami Dolphins,11/23/2014
+43-24,43,24,67,19,Philadelphia Eagles  ,Tennessee Titans,11/23/2014
+14-6,14,6,20,8,Arizona Cardinals  ,Detroit Lions,11/16/2014
+53-20,53,20,73,33,Green Bay Packers,Philadelphia Eagles,11/16/2014
+22-9,22,9,31,13,Miami Dolphins  ,Buffalo Bills,11/13/2014
+55-14,55,14,69,41,Green Bay Packers,Chicago Bears,11/9/2014
+40-24,40,24,64,16,Indianapolis Colts  ,New York Giants,11/3/2014
+37-0,37,0,37,37,Miami Dolphins  ,San Diego Chargers,11/2/2014
+43-21,43,21,64,22,New England Patriots,Denver Broncos,11/2/2014
+43-23,43,23,66,20,Pittsburgh Steelers  ,Baltimore Ravens,11/2/2014
+44-23,44,23,67,21,New Orleans Saints,Green Bay Packers,10/26/2014
+51-34,51,34,85,17,Pittsburgh Steelers  ,Indianapolis Colts,10/26/2014
+35-21,35,21,56,14,Denver Broncos  ,San Diego Chargers,10/23/2014
+37-22,37,22,59,15,New England Patriots,Buffalo Bills,10/12/2014
+37-37,37,37,74,0,Carolina Panthers  ,Cincinnati Bengals,10/12/2014
+41-20,41,20,61,21,Denver Broncos  ,Arizona Cardinals,10/5/2014
+16-9,16,9,25,7,New England Patriots,Oakland Raiders,9/21/2014
+34-15,34,15,49,19,Kansas City Chiefs,Miami Dolphins,9/21/2014
+56-14,56,14,70,42,Atlanta Falcons  ,Tampa Bay Buccaneers,9/18/2014
+25-14,25,14,39,11,Arizona Cardinals  ,New York Giants,9/14/2014
+36-16,36,16,52,20,Seattle Seahawks  ,Green Bay Packers,9/4/2014
+43-8,43,8,51,35,Seattle Seahawks  ,Denver Broncos,2/2/2014
+43-22,43,22,65,21,New England Patriots,Indianapolis Colts,1/11/2014
+45-44,45,44,89,1,Indianapolis Colts  ,Kansas City Chiefs,1/4/2014
+19-0,19,0,19,19,Buffalo Bills  ,Miami Dolphins,12/22/2013
+54-11,54,11,65,43,Philadelphia Eagles  ,Chicago Bears,12/22/2013
+48-30,48,30,78,18,Minnesota Vikings  ,Philadelphia Eagles,12/15/2013
+56-31,56,31,87,25,Kansas City Chiefs,Oakland Raiders,12/15/2013
+45-28,45,28,73,17,Chicago Bears  ,Dallas Cowboys,12/9/2013
+37-14,37,14,51,23,San Diego Chargers,New York Giants,12/8/2013
+51-28,51,28,79,23,Denver Broncos  ,Tennessee Titans,12/8/2013
+26-26,26,26,52,0,Green Bay Packers,Minnesota Vikings,11/24/2013
+40-11,40,11,51,29,Arizona Cardinals  ,Indianapolis Colts,11/24/2013
+49-20,49,20,69,29,Philadelphia Eagles  ,Oakland Raiders,11/3/2013
+55-31,55,31,86,24,New England Patriots,Pittsburgh Steelers,11/3/2013
+15-7,15,7,22,8,New York Giants,Philadelphia Eagles,10/27/2013
+44-31,44,31,75,13,Green Bay Packers,Minnesota Vikings,10/27/2013
+49-9,49,9,58,40,Cincinnati Bengals  ,New York Jets,10/27/2013
+39-33,39,33,72,6,Indianapolis Colts  ,Denver Broncos,10/20/2013
+45-41,45,41,86,4,Washington Redskins  ,Chicago Bears,10/20/2013
+19-6,19,6,25,13,Pittsburgh Steelers  ,New York Jets,10/13/2013
+31-16,31,16,47,15,Dallas Cowboys  ,Washington Redskins,10/13/2013
+32-20,32,20,52,12,San Francisco 49ers,Arizona Cardinals,10/13/2013
+35-19,35,19,54,16,Denver Broncos  ,Jacksonville Jaguars,10/13/2013
+51-48,51,48,99,3,Denver Broncos  ,Dallas Cowboys,10/6/2013
+52-20,52,20,72,32,Denver Broncos  ,Philadelphia Eagles,9/29/2013
+25-21,25,21,46,4,Arizona Cardinals  ,Detroit Lions,9/15/2013
+28-2,28,2,30,26,Kansas City Chiefs,Jacksonville Jaguars,9/8/2013
+45-31,45,31,76,14,San Francisco 49ers,Green Bay Packers,1/12/2013
+28-9,28,9,37,19,Buffalo Bills  ,New York Jets,12/30/2012
+23-6,23,6,29,17,Minnesota Vikings  ,Houston Texans,12/23/2012
+34-12,34,12,46,22,Denver Broncos  ,Cleveland Browns,12/23/2012
+42-13,42,13,55,29,Seattle Seahawks  ,San Francisco 49ers,12/23/2012
+55-7,55,7,62,48,Green Bay Packers,Tennessee Titans,12/23/2012
+31-18,31,18,49,13,Atlanta Falcons  ,Detroit Lions,12/22/2012
+15-0,15,0,15,15,Oakland Raiders  ,Kansas City Chiefs,12/16/2012
+41-0,41,0,41,41,New Orleans Saints,Tampa Bay Buccaneers,12/16/2012
+41-34,41,34,75,7,San Francisco 49ers,New England Patriots,12/16/2012
+50-17,50,17,67,33,Seattle Seahawks  ,Buffalo Bills,12/16/2012
+52-27,52,27,79,25,New York Giants,New Orleans Saints,12/9/2012
+58-0,58,0,58,58,Seattle Seahawks  ,Arizona Cardinals,12/9/2012
+6-Jul,7,6,13,1,New York Jets,Arizona Cardinals,12/2/2012
+34-18,34,18,52,16,Buffalo Bills  ,Jacksonville Jaguars,12/2/2012
+49-19,49,19,68,30,New England Patriots,New York Jets,11/22/2012
+32-7,32,7,39,25,San Francisco 49ers,Chicago Bears,11/19/2012
+59-24,59,24,83,35,New England Patriots,Indianapolis Colts,11/18/2012
+24-24,24,24,48,0,St. Louis Rams,San Francisco 49ers,11/11/2012
+36-14,36,14,50,22,Denver Broncos  ,Carolina Panthers,11/11/2012
+38-23,38,23,61,15,Dallas Cowboys  ,Philadelphia Eagles,11/11/2012
+55-20,55,20,75,35,Baltimore Ravens  ,Oakland Raiders,11/11/2012
+25-15,25,15,40,10,Baltimore Ravens  ,Cleveland Browns,11/4/2012
+42-32,42,32,74,10,Tampa Bay Buccaneers,Oakland Raiders,11/4/2012
+51-20,51,20,71,31,Chicago Bears  ,Tennessee Titans,11/4/2012
+27-12,27,12,39,15,Pittsburgh Steelers  ,Washington Redskins,10/28/2012
+31-29,31,29,60,2,Baltimore Ravens  ,Dallas Cowboys,10/14/2012
+38-26,38,26,64,12,Washington Redskins  ,Minnesota Vikings,10/14/2012
+41-27,41,27,68,14,New York Giants,Cleveland Browns,10/7/2012
+45-3,45,3,48,42,San Francisco 49ers,Buffalo Bills,10/7/2012
+37-6,37,6,43,31,Denver Broncos  ,Oakland Raiders,9/30/2012
+52-28,52,28,80,24,New England Patriots,Buffalo Bills,9/30/2012
+14-12,14,12,26,2,Seattle Seahawks  ,Green Bay Packers,9/24/2012
+44-41,44,41,85,3,Tennessee Titans  ,Detroit Lions,9/23/2012
+35-13,35,13,48,22,Miami Dolphins  ,Oakland Raiders,9/16/2012
+44-13,44,13,57,31,Baltimore Ravens  ,Cincinnati Bengals,9/10/2012
+48-28,48,28,76,20,New York Jets,Buffalo Bills,9/9/2012
+36-32,36,32,68,4,San Francisco 49ers,New Orleans Saints,1/14/2012
+24-2,24,2,26,22,New York Giants,Atlanta Falcons,1/8/2012
+45-24,45,24,69,21,Atlanta Falcons  ,Tampa Bay Buccaneers,1/1/2012
+3-Jul,7,3,10,4,Kansas City Chiefs,Denver Broncos,1/1/2012
+48-16,48,16,64,32,Carolina Panthers  ,Tampa Bay Buccaneers,12/24/2011
+45-19,45,19,64,26,Philadelphia Eagles  ,New York Jets,12/18/2011
+46-16,46,16,62,30,Green Bay Packers,Oakland Raiders,12/11/2011
+14-3,14,3,17,11,Pittsburgh Steelers  ,Cleveland Browns,12/8/2011
+34-19,34,19,53,15,New York Jets,Washington Redskins,12/4/2011
+35-7,35,7,42,28,Pittsburgh Steelers  ,Cincinnati Bengals,12/4/2011
+49-24,49,24,73,25,New Orleans Saints,New York Giants,11/28/2011
+27-15,27,15,42,12,Green Bay Packers,Detroit Lions,11/24/2011
+35-26,35,26,61,9,Green Bay Packers,Tampa Bay Buccaneers,11/20/2011
+35-8,35,8,43,27,Miami Dolphins  ,Buffalo Bills,11/20/2011
+49-35,49,35,84,14,Detroit Lions  ,Carolina Panthers,11/20/2011
+30-3,30,3,33,27,Tennessee Titans  ,Carolina Panthers,11/13/2011
+45-38,45,38,83,7,Green Bay Packers,San Diego Chargers,11/6/2011
+62-7,62,7,69,55,New Orleans Saints,Indianapolis Colts,10/23/2011
+3-Jun,6,3,9,3,Cleveland Browns  ,Seattle Seahawks,10/23/2011
+48-3,48,3,51,45,San Francisco 49ers,Tampa Bay Buccaneers,10/9/2011
+49-23,49,23,72,26,Green Bay Packers,Denver Broncos,10/2/2011
+13-8,13,8,21,5,San Francisco 49ers,Cincinnati Bengals,9/25/2011
+37-7,37,7,44,30,Baltimore Ravens  ,St. Louis Rams,9/25/2011
+32-3,32,3,35,29,New York Jets,Jacksonville Jaguars,9/18/2011
+41-36,41,36,77,5,Seattle Seahawks  ,New Orleans Saints,1/8/2011
+38-15,38,15,53,23,Tampa Bay Buccaneers,Seattle Seahawks,12/26/2010
+38-34,38,34,72,4,Chicago Bears  ,New York Jets,12/26/2010
+39-23,39,23,62,16,Oakland Raiders  ,Denver Broncos,12/19/2010
+21-3,21,3,24,18,New York Giants,Minnesota Vikings,12/13/2010
+40-21,40,21,61,19,San Francisco 49ers,Seattle Seahawks,12/12/2010
+49-31,49,31,80,18,Buffalo Bills  ,Cincinnati Bengals,11/21/2010
+59-28,59,28,87,31,Philadelphia Eagles  ,Washington Redskins,11/15/2010
+36-18,36,18,54,18,Seattle Seahawks  ,Arizona Cardinals,11/14/2010
+39-26,39,26,65,13,New England Patriots,Pittsburgh Steelers,11/14/2010
+49-29,49,29,78,20,Denver Broncos  ,Kansas City Chiefs,11/14/2010
+37-25,37,25,62,12,Detroit Lions  ,Washington Redskins,10/31/2010
+59-14,59,14,73,45,Oakland Raiders  ,Denver Broncos,10/24/2010
+15-9,15,9,24,6,Pittsburgh Steelers  ,Atlanta Falcons,9/12/2010
+51-45,51,45,96,6,Arizona Cardinals  ,Green Bay Packers,1/10/2010
+44-24,44,24,68,20,Kansas City Chiefs,Denver Broncos,1/3/2010
