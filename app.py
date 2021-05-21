@@ -5,7 +5,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, request
 
 # #################################################
 # # Database Setup
@@ -26,7 +26,6 @@ scores = Base.classes.scores
 # Flask Setup
 #################################################
 app = Flask(__name__)
-
 
 #################################################
 # Flask Routes
@@ -141,6 +140,31 @@ def score_data():
         score_info.append(score_dict)
 
     return jsonify(score_info)
+
+# -------------------------------------------------------------------
+# API endpoint for predictions
+# -------------------------------------------------------------------
+# # Query the database and send the jsonified results
+@app.route("/predict", methods=["GET", "POST"])
+def predict():
+
+    session = Session(engine)
+
+    if request.method == "POST":
+        print(request.form)
+        quarter = request.form["inputQuarter"]
+        down = request.form["inputDown"]
+        points = request.form["Points"]
+        togo = request.form["Yards"]
+
+        # pet = Pet(name=name, lat=lat, lon=lon)
+        # session.add(pet)
+        # session.commit()
+        # return redirect("/", code=302)
+
+    session.close()
+
+    return render_template("form.html")
 
 if __name__ == '__main__':
     app.run(debug=True)

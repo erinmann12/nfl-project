@@ -1,3 +1,10 @@
-h1{
-    font-family: fantasy
+h1, h2{
+    font-family: fantasy;
+    /* font-size: 120px; */
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    position: center;
 }
