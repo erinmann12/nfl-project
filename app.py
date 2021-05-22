@@ -6,6 +6,8 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
 from flask import Flask, jsonify, render_template, request
+from sklearn.linear_model import LogisticRegression
+import pickle
 
 # #################################################
 # # Database Setup
@@ -171,25 +173,65 @@ def predict():
 
     session = Session(engine)
 
-    post_data = request.get_json()
-    if quarterValue in post_data: 
-        quarter_value = post_data['quarterValue']
+    # post_data = request.get_json()
+    # if quarterValue in post_data: 
+    #     quarter_value = post_data['quarterValue']
 
-    # if request.method == "POST":
-    #     print(request.form)
-    #     quarter = request.form["inputQuarter"]
-    #     down = request.form["inputDown"]
-    #     points = request.form["Points"]
-    #     togo = request.form["Yards"]
+    if request.method == "POST":
+        print(request.form)
+        quarter = float(request.form["inputQuarter"])
+        down = float(request.form["inputDown"])
 
-        # pet = Pet(name=name, lat=lat, lon=lon)
-        # session.add(pet)
-        # session.commit()
-        # return redirect("/", code=302)
+        if request.form["Points"]:
+            points = float(request.form["Points"])
+        #default values
+        else:
+            points = 1
+            
+        if request.form["Yards"]:
+            togo = float(request.form["Yards"])
+        #default values
+        else:
+            togo = 1
+        # togo = float(request.form["Yards"])
+
+        if request.form["Position"] == 1:
+            fieldposition = 1
+            fieldposition2 = 0
+            fieldposition3 = 0
+            fieldposition4 = 0
+        elif request.form["Position"] == 2:
+            fieldposition = 0
+            fieldposition2 = 1
+            fieldposition3 = 0
+            fieldposition4 = 0
+        elif request.form["Position"] == 3:
+            fieldposition = 0
+            fieldposition2 = 0
+            fieldposition3 = 1
+            fieldposition4 = 0
+        else:
+            fieldposition = 0
+            fieldposition2 = 0
+            fieldposition3 = 0
+            fieldposition4 = 1
+        #make dropdown
+        # fieldposition = 1
+        # fieldposition2 = 0
+        # fieldposition3 = 0
+        # fieldposition4 = 0
+        # points = float(request.form["Points"])
+        
+
+        X = [[quarter, down, togo, fieldposition, fieldposition2, fieldposition3, fieldposition4, points,]]
+
+        loaded_model = pickle.load(open("NFL_machine.sav", 'rb'))
+        predictions = loaded_model.predict(X)
+        print(predictions)
 
     session.close()
 
-    # return render_template("form.html")
+    return render_template("form.html")
     #return jsonify 
 
 if __name__ == '__main__':
