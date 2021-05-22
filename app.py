@@ -21,6 +21,7 @@ Base.prepare(engine, reflect=True)
 # # Save reference to the tables
 nfl = Base.classes.nfl
 scores = Base.classes.scores
+plays = Base.classes.plays
 
 #################################################
 # Flask Setup
@@ -38,6 +39,11 @@ app = Flask(__name__)
 def home():
 
     return render_template("index.html")
+
+@app.route("/results")
+def results():
+    
+    return render_template("results.html")
 
 # -------------------------------------------------------------------
 # API endpoint one
@@ -142,6 +148,21 @@ def score_data():
     return jsonify(score_info)
 
 # -------------------------------------------------------------------
+# API endpoint three
+# -------------------------------------------------------------------
+@app.route("/api/v1.0/plays")
+def play_data():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    play_df = pd.read_sql_query("SELECT * FROM plays", con=engine)
+    grouped = play_df.groupby(['Quarter',"OffenseTeam"])
+    plays_2019 = grouped.sum()
+    session.close()
+
+    return plays_2019.to_json(orient = "table")
+
+# -------------------------------------------------------------------
 # API endpoint for predictions
 # -------------------------------------------------------------------
 # # Query the database and send the jsonified results
@@ -150,12 +171,16 @@ def predict():
 
     session = Session(engine)
 
-    if request.method == "POST":
-        print(request.form)
-        quarter = request.form["inputQuarter"]
-        down = request.form["inputDown"]
-        points = request.form["Points"]
-        togo = request.form["Yards"]
+    post_data = request.get_json()
+    if quarterValue in post_data: 
+        quarter_value = post_data['quarterValue']
+
+    # if request.method == "POST":
+    #     print(request.form)
+    #     quarter = request.form["inputQuarter"]
+    #     down = request.form["inputDown"]
+    #     points = request.form["Points"]
+    #     togo = request.form["Yards"]
 
         # pet = Pet(name=name, lat=lat, lon=lon)
         # session.add(pet)
@@ -164,7 +189,8 @@ def predict():
 
     session.close()
 
-    return render_template("form.html")
+    # return render_template("form.html")
+    #return jsonify 
 
 if __name__ == '__main__':
     app.run(debug=True)
