@@ -8,6 +8,7 @@ from sqlalchemy import create_engine, func
 from flask import Flask, jsonify, render_template, request
 from sklearn.linear_model import LogisticRegression
 import pickle
+import json
 
 # #################################################
 # # Database Setup
@@ -46,6 +47,18 @@ def home():
 def results():
     
     return render_template("results.html")
+
+@app.route("/form")
+def form():
+    return render_template("form.html")
+
+@app.route("/thirddown")
+def thirddown():
+    return render_template("thirddown.html")
+
+@app.route("/fourthdown")
+def fourthdown():
+    return render_template("fourthdown.html")
 
 # -------------------------------------------------------------------
 # API endpoint one
@@ -165,6 +178,28 @@ def play_data():
     return plays_2019.to_json(orient = "table")
 
 # -------------------------------------------------------------------
+# API endpoint fourth
+# -------------------------------------------------------------------
+@app.route("/api/v1.0/yardsgained")
+def yards_data():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+    results = session.query(nfl.OffenseTeam,nfl.Down,nfl.ToGo,nfl.SeasonYear,nfl.Yards,nfl.Formation,\
+                nfl.PlayType).all()
+    session.close()
+    yard_info = []
+    for OffenseTeam,  Down, ToGo,  SeasonYear, Yards, Formation, PlayType in results:
+        yard_dict = {}
+        yard_dict["OffenseTeam"] = OffenseTeam
+        yard_dict["Down"] =  Down
+        yard_dict["ToGo"] = ToGo
+        yard_dict["SeasonYear"]= SeasonYear
+        yard_dict["Yards"]= Yards
+        yard_dict["Formation"]= Formation
+        yard_dict["PlayType"]= PlayType
+        yard_info.append(yard_dict)
+    return jsonify(yard_info)
+# -------------------------------------------------------------------
 # API endpoint for predictions
 # -------------------------------------------------------------------
 # # Query the database and send the jsonified results
@@ -172,67 +207,34 @@ def play_data():
 def predict():
 
     session = Session(engine)
-
-    # post_data = request.get_json()
-    # if quarterValue in post_data: 
-    #     quarter_value = post_data['quarterValue']
-
-    if request.method == "POST":
-        print(request.form)
-        quarter = float(request.form["inputQuarter"])
-        down = float(request.form["inputDown"])
-
-        if request.form["Points"]:
-            points = float(request.form["Points"])
-        #default values
-        else:
-            points = 1
-            
-        if request.form["Yards"]:
-            togo = float(request.form["Yards"])
-        #default values
-        else:
-            togo = 1
-        # togo = float(request.form["Yards"])
-
-        if request.form["Position"] == 1:
-            fieldposition = 1
-            fieldposition2 = 0
-            fieldposition3 = 0
-            fieldposition4 = 0
-        elif request.form["Position"] == 2:
-            fieldposition = 0
-            fieldposition2 = 1
-            fieldposition3 = 0
-            fieldposition4 = 0
-        elif request.form["Position"] == 3:
-            fieldposition = 0
-            fieldposition2 = 0
-            fieldposition3 = 1
-            fieldposition4 = 0
-        else:
-            fieldposition = 0
-            fieldposition2 = 0
-            fieldposition3 = 0
-            fieldposition4 = 1
-        #make dropdown
-        # fieldposition = 1
-        # fieldposition2 = 0
-        # fieldposition3 = 0
-        # fieldposition4 = 0
-        # points = float(request.form["Points"])
         
+    post_data = request.get_json()
+    print(post_data)
 
+    if "quarter" in post_data: 
+        quarter = float(post_data['quarter'])
+        down = float(post_data['down'])
+        points = float(post_data['points'])
+        togo = float(post_data["togo"])
+        fieldposition = post_data["fieldposition"]
+        fieldposition2 = post_data["fieldposition2"]
+        fieldposition3 = post_data["fieldposition3"]
+        fieldposition4 = post_data["fieldposition4"]
+        
         X = [[quarter, down, togo, fieldposition, fieldposition2, fieldposition3, fieldposition4, points,]]
-
-        loaded_model = pickle.load(open("NFL_machine.sav", 'rb'))
+        print(X)
+        loaded_model = pickle.load(open("NFL_machine2.sav", 'rb'))
         predictions = loaded_model.predict(X)
         print(predictions)
 
     session.close()
 
-    return render_template("form.html")
-    #return jsonify 
+    results = {
+        "Status":"Ok",
+        "predictions": predictions[0]
+    }
+    #return render_template("results.html", predictions=predictions)
+    return jsonify(results)
 
 if __name__ == '__main__':
     app.run(debug=True)
