@@ -9,6 +9,7 @@ importlib-metadata==4.2.0
 itsdangerous==2.0.1
 Jinja2==3.0.1
 joblib==1.0.1
+jsonify==0.5
 MarkupSafe==2.0.1
 numpy==1.19.5
 pandas==1.1.5
@@ -24,4 +25,3 @@ typing-extensions==3.10.0.0
 Werkzeug==2.0.1
 wincertstore==0.2
 zipp==3.4.1
-dataclasses==0.6
