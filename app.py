@@ -233,7 +233,7 @@ def predict():
         "Status":"Ok",
         "predictions": predictions[0]
     }
-    #return render_template("results.html", predictions=predictions)
+
     return jsonify(results)
 
 if __name__ == '__main__':

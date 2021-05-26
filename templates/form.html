@@ -21,6 +21,9 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item">
+                            <a class="nav-link" href="/form">Preditions</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="/thirddown">Third Down</a>
                         </li>
                         <li class="nav-item">
@@ -81,8 +84,8 @@
                     <div id ="results" style = "display:none">
                         <div class="container">
                             <div class = "row">
-                                <div class = "col-md-12" style="text-align: center">
-                                    <h3>For the 
+                                <div class = "col-md-12">
+                                    <h4>For the 
                                     <span id = "enteredQuarter">
                                     </span>
                                     on 
@@ -94,24 +97,26 @@
                                     points
                                     in the 
                                     "<span id ="enteredposition">
-                                    </span>
-                                    ,"
+                                    </span>,"
                                     the best play is a
                                     <strong><span id = "prediction">
                                     </span></strong>.
-                                    </h3>
+                                    </h4>
                                 </div>
                             </div>
+                            <button id="reset-btn" type="button" class="btn btn-secondary btn-sm">Make New Prediction</button>
                             <div class = "row">
                                 <div class = "col-md-12">
                                     <div id="chart1"></div>
                                 </div>
                             </div>
+                            <br>
                             <div class = "row">
                                 <div class = "col-md-12">
                                     <div class='tableauPlaceholder' id='viz1621995905491' style='position: relative;margin-left:auto; margin-right:auto; display:block'><noscript><a href='#'><img alt='Pass vs Rush ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WT&#47;WTW4JS5FR&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;WTW4JS5FR' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WT&#47;WTW4JS5FR&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1621995905491');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
                                 </div>
                             </div>
+                            
                     
                         </div>
                     </div>
