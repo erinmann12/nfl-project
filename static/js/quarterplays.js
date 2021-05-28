@@ -140,7 +140,7 @@ function filterQuarter() {
                             var data = [trace1, trace2];
                         
                             var layout = {
-                                title: "Fourth Quarter Plays by Team",
+                                title: "Fourth Quarter Plays by Team in 2019",
                                 barmode: 'group'
                             };
                         
@@ -174,7 +174,7 @@ function filterQuarter() {
                             var data = [trace1, trace2];
                         
                             var layout = {
-                                title: "Third Quarter Plays by Team",
+                                title: "Third Quarter Plays by Team in 2019",
                                 barmode: 'group'};
                         
                             Plotly.newPlot('chart1', data, layout);
@@ -207,7 +207,7 @@ function filterQuarter() {
                             var data = [trace1, trace2];
                         
                             var layout = {
-                                title: "Second Quarter Plays by Team",
+                                title: "Second Quarter Plays by Team in 2019",
                                 barmode: 'group'};
                         
                             Plotly.newPlot('chart1', data, layout);
@@ -240,7 +240,7 @@ function filterQuarter() {
                             var data = [trace1, trace2];
                         
                             var layout = {
-                                title: "First Quarter Plays by Team",
+                                title: "First Quarter Plays by Team in 2019",
                                 barmode: 'group'};
                         
                             Plotly.newPlot('chart1', data, layout); 
